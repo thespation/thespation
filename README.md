@@ -1,17 +1,35 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thespation" alt="thespation" /></p>
+<h1 align='center'>
+  Hi there 👋 I'm William 👨‍💻
+</h1>
+
+<p align='center'>
+  📫 How to reach me:
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/william-santos-44525abb/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:thespation@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thespation&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/thespation/thespation">
+</p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-WilliamSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-santos-44525abb/)](https://www.linkedin.com/in/william-santos-44525abb/) [![Gmail Badge](https://img.shields.io/badge/-thespation@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thespation@gmail.com)](mailto:thespation@gmail.com)
-
-
-## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thespation&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thespation&hide=TeX&layout=compact)
-
+ <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/thespation?style=social"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/thespation/dpux_bspwm?style=social"><img alt="GitHub forks" src="https://img.shields.io/github/forks/thespation/dpux_bspwm?style=social"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/thespation/dpux_bspwm?style=social"><br> 
+  
 ## Languages and Tools
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+   
 <!--
 ### Hi there 👋
 

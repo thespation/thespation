@@ -13,6 +13,8 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:thespation@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
+
    
 </p>
 
@@ -24,6 +26,7 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/thespation/thespation">
 </p>
 
+  ![](https://komarev.com/ghpvc/?username=thespation)
 
  <p align="center"><img alt="GitHub followers" src="https://img.shields.io/github/followers/thespation?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/thespation/dpux_bspwm?style=social"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/thespation/dpux_bspwm?style=social"><br> 
   

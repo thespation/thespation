@@ -14,7 +14,7 @@
   <a href="mailto:thespation@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   
-
+<!--
    
 </p>
 
@@ -33,7 +33,7 @@
 ## Languages and Tools
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
    
-<!--
+
 ### Hi there 👋
 
 

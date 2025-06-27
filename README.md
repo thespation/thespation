@@ -1,10 +1,14 @@
 <h1 align='center'>
-  Hi there 👋 I'm William 👨‍💻
-</h1>
+👋 Hi, I'm William Santos</h1>
 
-<p align='center'>
-  📫 How to reach me:
-</p>
+## 👨‍💻 About Me
+
+- **Quality Analysis Specialist** with a passion for robust software.
+- Experienced in developing solutions with **Bash scripts** for various Linux distributions.
+- Contributor to open-source, notably the [arch-i3wm](https://github.com/thespation/arch-i3wm) project.
+- Always eager to automate and optimize workflows on Linux!
+
+## 🔗 Find Me Online
 
 <p align='center'>
   
@@ -13,13 +17,19 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:thespation@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    
-    
-<!--
 
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thespation/count.svg" />
-</p>
-  
--->
+## 🎯 Skills
+
+- Quality Assurance & Testing
+- Bash Scripting & Automation
+- Linux (Arch, Ubuntu, Fedora, etc.)
+- Workflow Optimization
+- Open-source Collaboration
+
+## ♟️ Fun Facts
+
+- I love playing chess and King of Fighters '98 (KOF98) in my spare time!
+
+---
+
+> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin

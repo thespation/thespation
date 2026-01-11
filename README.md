@@ -5,7 +5,7 @@
 
 - **Quality Analysis Specialist** with a passion for robust software.
 - Experienced in developing solutions with **Bash scripts** for various Linux distributions.
-- Contributor to open-source, notably the [arch-i3wm](https://github.com/thespation/arch-i3wm) project.
+- Contributor to open-source, notably the [debian-i3wm](https://github.com/thespation/debian-i3wm) project.
 - Always eager to automate and optimize workflows on Linux!
 
 ## 🔗 Find Me Online
